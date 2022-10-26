@@ -2,6 +2,11 @@
   <img alt="Ignite Feed" src="./primeiro-projeto/.github/ignite-feed-github.png" width="100%">
 </p>
 
+## 💻 Projeto
+
+O Ignite Feed é um projeto que simula uma rede social bastante conhecida, o Twitter!
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -11,8 +16,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React
 - Node e NPM
 - Vite
+
+
+## 📚 Bibliotecas
+
 - Phosphoricons
-
-## 💻 Projeto
-
-O Ignite Feed é um projeto que simula uma rede social bastante conhecida, o Twitter!
+- DateFNS
